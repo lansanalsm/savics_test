@@ -1,0 +1,4 @@
+// secteurs
+export const PATIENT_ADDED = 'PATIENT_ADDED'
+export const PATIENT_DELETED = 'PATIENT_DELETED'
+export const PATIENT_FILTERED = 'PATIENT_FILTERED'
